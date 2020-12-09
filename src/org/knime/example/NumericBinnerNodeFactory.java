@@ -27,6 +27,7 @@ import org.knime.core.node.NodeView;
  * <code>NodeFactory</code> for the "NumericBinner" Node.
  * Simple numeric binner with equidistant bins.
  *
+ * Comment
  * @author KNIME.com AG, Zurich, Switzerland
  */
 public class NumericBinnerNodeFactory 

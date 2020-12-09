@@ -49,6 +49,7 @@ public class NumericBin {
     
     /**
      * Creates a new numeric bin. 
+     * A comment
      */
     public NumericBin() {
         m_containedRowIds = new LinkedHashSet<RowKey>();
