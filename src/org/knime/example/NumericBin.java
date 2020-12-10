@@ -2,6 +2,8 @@
  * ------------------------------------------------------------------------
   * This source code, its documentation and all appendant files
  * are protected by copyright law. All rights reserved.
+ * fsd
+
  *
  * Copyright, 2008 - 2012
  * KNIME.com, Zurich, Switzerland
